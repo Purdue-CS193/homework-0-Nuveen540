@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+# Dulith's First CS193 Homework
+
+## Favorite things about CS193
+_A bit hard to say since we've only had one class so far but I'll try my best._
+- The instructors seem pretty chill
+- The content we will be learning seems interesting
+- It will be really useful to freshmen like us, who are still new to studying CS at Purdue
+- And of course, **no midterm or final exams**
+- 193 is a very cool number
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
